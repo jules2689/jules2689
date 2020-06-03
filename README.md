@@ -15,6 +15,7 @@ I am a...
 - :computer: Senior Developer @ GitHub
 - :school: [Instructor at the University of Toronto](https://dcsil.github.io/CSC491/)
 - :pencil2: Writer (sometimes) on [dev.to](https://dev.to/jules2689/)
+- :email: Run a semi-active Developer Productivity community at https://chat.devproductivity.io
 
 I like to work on...
 - :factory: Automation of tedious things
