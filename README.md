@@ -1,12 +1,11 @@
-<div align="middle">
+
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
   > Destiny is a funny thing. You never know how things are going to work out.
   >
   > ~ Uncle Iroh
-<!--END_SECTION:iroh-->
-</div>
+<!--END_SECTION:iroh-->=
 
 <br>
 
