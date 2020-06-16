@@ -17,7 +17,7 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
-      - name: Install readme-box
-        run: npm install readme-box
+      - name: Install dependencies
+        run: npm install
       - name: Run script
         run: node .github/iroh.js
