@@ -1,0 +1,23 @@
+name: Iroh
+
+on:
+  schedule:
+    # Once a day at 8 AM
+    - cron: 0 8 * * *
+  push:
+    branches:
+      - master
+
+jobs:
+  iroh:
+    name: Update my status
+    runs-on: ubuntu-latest
+    steps:
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+      - name: Install readme-box
+        run: npm install readme-box
+      - name: Run script
+        run: node .github/iroh.js
