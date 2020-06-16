@@ -61,8 +61,10 @@ async function main() {
   console.log(`New quote: ${quote.quote}`)
 
   let newContent = `<img src='https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png'>
+
   > ${quote.quote}
-  > - ${quote.source}`
+  >
+  > ~ ${quote.source}`
   if (quote.citation) newContent = newContent + ` (${quote.citation})`
   console.log(`New Content ${newContent}`)
 
