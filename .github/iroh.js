@@ -1,5 +1,4 @@
 const { ReadmeBox } = require('readme-box')
-import { ReadmeBox } from 'readme-box'
 
 // Iroh quotes borrowed from https://codepen.io/jgobeille/pen/pozmeZO
 let quotes = [
@@ -56,17 +55,26 @@ let quotes = [
   },
 ]
 
+async function main() {
+  let randomIndex = Math.floor(Math.random() * quotes.length - 1 + 1); 
+  const quote = quotes[randomIndex];
+  console.log(`New quote: ${quote.quote}`)
 
-let randomIndex = Math.floor(Math.random() * quotes.length - 1 + 1); 
-const quote = quotes[randomIndex];
-let newContent = "<img src='https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png'>\n"
-newContent = `${newContent} ${quote.quote}\n- ${quote.source}`
-if (quote.citation) newContent = newContent + `\n${quote.citation}`
+  let newContent = "<img src='https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png'>\n"
+  newContent = `${newContent} ${quote.quote}\n- ${quote.source}`
+  if (quote.citation) newContent = newContent + `\n${quote.citation}`
+  console.log(`New Content ${newContent}`)
 
-const box = new ReadmeBox({ owner, repo, token })
-const { content, sha } = await box.getReadme()
-const sectionContents = box.getSection('iroh', content)
-box.replaceSection({ section: 'iroh', sectionContents, newContent })
+  await ReadmeBox.updateSection(newContent, {
+    owner: 'jules2689',
+    repo: 'jules2689',
+    token: process.env.GITHUB_TOKEN,
+    section: 'iroh'
+  })
+}
 
-// Update the README via the API, with an optional commit message
-await box.updateReadme({ content, sha, message: 'Updating the README with Iroh!' })
+main().then(() => {
+  console.log("Done!")
+}).catch(() => {
+  console.log("Error!")
+})

@@ -2,9 +2,9 @@
   "name": "jules2689",
   "version": "1.0.0",
   "description": "<!--START_SECTION:iroh--> <!--END_SECTION:iroh-->",
-  "main": "iroh.js",
+  "main": ".github/iroh.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node .github/iroh.js"
   },
   "repository": {
     "type": "git",
