@@ -1,18 +1,14 @@
 <!--START_SECTION:iroh-->
-<table style="border: 0">
+
+  <table>
   <tr>
-    <td>
-<img height="80" src='https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png'>
-    </td>
+    <td><img height="80" src='https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png'></td>
     <td>
 
-  > You have come to the crossroads of your destiny. It is time for you to choose. It is time for you to choose good.
+  > It is usually best to admit mistakes when they occur, and to seek to restore honor.
   >
-  > ~ Uncle Iroh (Episode 2.20 'The Crossroads of Destiny')
-  
-  </td>
- </tr>
-</table>
+  > ~ Uncle Iroh
+</td></tr></table>
 <!--END_SECTION:iroh-->
 
 These past few months have been troubling and many days have shown us horrific events. Words cannot express the dismay I feel for the Black community. However, I know that my words can never understand the hurt and pain caused by racial injustice. All I can do right now is listen and act however I can as an ally.
