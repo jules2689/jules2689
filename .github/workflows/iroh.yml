@@ -10,7 +10,7 @@ on:
 
 jobs:
   iroh:
-    name: Update Irog
+    name: Update Iroh
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
