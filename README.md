@@ -6,6 +6,10 @@
   > ~ Uncle Iroh
 <!--END_SECTION:iroh-->
 
+<br>
+
+---
+
 These past few months have been troubling and many days have shown us horrific events. Words cannot express the dismay I feel for the Black community. However, I know that my words can never understand the hurt and pain caused by racial injustice. All I can do right now is listen and act however I can as an ally.
 
 I don't know everything I can do to help right now, but I'm researching and learning - something I should have taken more seriously before.
@@ -28,4 +32,4 @@ I am a...
 I like to work on...
 - :factory: Automation of tedious things
 - :gift_heart: Making lives better
-- :pencil: Education
+- :pencil: Educatio
