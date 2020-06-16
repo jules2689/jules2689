@@ -60,17 +60,12 @@ async function main() {
   const quote = quotes[randomIndex];
   console.log(`New quote: ${quote.quote}`)
 
-  let newContent = `
-  <table>
-  <tr>
-    <td><img height="80" src='https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png'></td>
-    <td>
-
+  let newContent = `<img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
+  
   > ${quote.quote}
   >
   > ~ ${quote.source}`
   if (quote.citation) newContent = newContent + ` (${quote.citation})`
-  newContent = newContent + '\n</td></tr></table>'
 
   console.log(`New Content ${newContent}`)
 
