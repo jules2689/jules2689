@@ -1,8 +1,7 @@
 <!--START_SECTION:iroh-->
 <img src='https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png'>
- Sometimes life is like this tunnel. You can’t always see the light at the end of the tunnel, but if you keep moving, you will come to a better place.
-- Uncle Iroh
-Episode 2.19 'The Crossroads of Destiny'
+  > Hope is something you give yourself. That is the meaning of inner strength.
+  > - Uncle Iroh
 <!--END_SECTION:iroh-->
 
 ---
