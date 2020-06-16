@@ -5,7 +5,7 @@
   > Destiny is a funny thing. You never know how things are going to work out.
   >
   > ~ Uncle Iroh
-<!--END_SECTION:iroh-->=
+<!--END_SECTION:iroh-->
 
 <br>
 
