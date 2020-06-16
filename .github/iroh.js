@@ -60,9 +60,10 @@ async function main() {
   const quote = quotes[randomIndex];
   console.log(`New quote: ${quote.quote}`)
 
-  let newContent = "<img src='https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png'>\n"
-  newContent = `${newContent} ${quote.quote}\n- ${quote.source}`
-  if (quote.citation) newContent = newContent + `\n${quote.citation}`
+  let newContent = `<img src='https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png'>
+  > ${quote.quote}
+  > - ${quote.source}`
+  if (quote.citation) newContent = newContent + ` (${quote.citation})`
   console.log(`New Content ${newContent}`)
 
   await ReadmeBox.updateSection(newContent, {
