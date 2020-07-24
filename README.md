@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > Sharing tea with a fascinating stranger is one of life’s true delights.
+  > Pride is not the opposite of shame, but its source.
   >
-  > ~ Uncle Iroh (Episode 2.08 'The Chase')
+  > ~ Uncle Iroh (Episode 2.09 'Bitter Work')
 <!--END_SECTION:iroh-->
 
 <br>
