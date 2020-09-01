@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > While it is always best to believe in oneself, a little help from others can be a great blessing.
+  > You have come to the crossroads of your destiny. It is time for you to choose. It is time for you to choose good.
   >
-  > ~ Uncle Iroh
+  > ~ Uncle Iroh (Episode 2.20 'The Crossroads of Destiny')
 <!--END_SECTION:iroh-->
 
 <br>
