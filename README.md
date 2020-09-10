@@ -2,7 +2,7 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > It is usually best to admit mistakes when they occur, and to seek to restore honor.
+  > Hope is something you give yourself. That is the meaning of inner strength.
   >
   > ~ Uncle Iroh
 <!--END_SECTION:iroh-->
