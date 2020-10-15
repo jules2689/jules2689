@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > Destiny is a funny thing. You never know how things are going to work out.
+  > Life happens wherever you are, whether you make it or not.
   >
-  > ~ Uncle Iroh
+  > ~ Uncle Iroh (Episode 2.13 'City of Walls Secrets')
 <!--END_SECTION:iroh-->
 
 <br>
