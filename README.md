@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > It is usually best to admit mistakes when they occur, and to seek to restore honor.
+  > You have come to the crossroads of your destiny. It is time for you to choose. It is time for you to choose good.
   >
-  > ~ Uncle Iroh
+  > ~ Uncle Iroh (Episode 2.20 'The Crossroads of Destiny')
 <!--END_SECTION:iroh-->
 
 <br>
