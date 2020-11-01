@@ -2,7 +2,7 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > While it is always best to believe in oneself, a little help from others can be a great blessing.
+  > It is usually best to admit mistakes when they occur, and to seek to restore honor.
   >
   > ~ Uncle Iroh
 <!--END_SECTION:iroh-->
