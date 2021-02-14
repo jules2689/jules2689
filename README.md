@@ -16,7 +16,7 @@ I am born in the East Coast of Canada and raised in both the East Coast and Otta
 
 I focus on...
 - :computer: Senior Developer @ GitHub
-- :school: [Instructor at the University of Toronto](https://dcsil.github.io/CSC491/)
+- :school: [Instructor at the University of Toronto](https://csc491.dcsil.ca)
 
 I like to work on...
 - :factory: Automation of tedious things
