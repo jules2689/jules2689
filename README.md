@@ -11,8 +11,7 @@
 
 ---
 
-:wave: My name is Julian.
-I am born in the East Coast of Canada and raised in both the East Coast and Ottawa Valley in Canada 🇨🇦. Currently, I call Toronto home.
+:wave: My name is Julian. Currently, I call Toronto home.
 
 I focus on...
 - :computer: Senior Developer @ GitHub
