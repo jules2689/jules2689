@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > Life happens wherever you are, whether you make it or not.
+  > There is nothing wrong with a life of peace and prosperity. I suggest you think about what it is you want from your life, and why.
   >
-  > ~ Uncle Iroh (Episode 2.13 'City of Walls Secrets')
+  > ~ Uncle Iroh (Episode 2.17 'Lake Laogai')
 <!--END_SECTION:iroh-->
 
 <br>
