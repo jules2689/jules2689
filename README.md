@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > Sometimes life is like this tunnel. You can’t always see the light at the end of the tunnel, but if you keep moving, you will come to a better place.
+  > While it is always best to believe in oneself, a little help from others can be a great blessing.
   >
-  > ~ Uncle Iroh (Episode 2.19 'The Crossroads of Destiny')
+  > ~ Uncle Iroh
 <!--END_SECTION:iroh-->
 
 <br>
