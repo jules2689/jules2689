@@ -2,7 +2,7 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > Destiny is a funny thing. You never know how things are going to work out.
+  > While it is always best to believe in oneself, a little help from others can be a great blessing.
   >
   > ~ Uncle Iroh
 <!--END_SECTION:iroh-->
