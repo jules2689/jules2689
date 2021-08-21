@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > There is nothing wrong with a life of peace and prosperity. I suggest you think about what it is you want from your life, and why.
+  > Destiny is a funny thing. You never know how things are going to work out.
   >
-  > ~ Uncle Iroh (Episode 2.17 'Lake Laogai')
+  > ~ Uncle Iroh
 <!--END_SECTION:iroh-->
 
 <br>
