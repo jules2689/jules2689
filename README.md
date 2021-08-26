@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > Life happens wherever you are, whether you make it or not.
+  > You have come to the crossroads of your destiny. It is time for you to choose. It is time for you to choose good.
   >
-  > ~ Uncle Iroh (Episode 2.13 'City of Walls Secrets')
+  > ~ Uncle Iroh (Episode 2.20 'The Crossroads of Destiny')
 <!--END_SECTION:iroh-->
 
 <br>
