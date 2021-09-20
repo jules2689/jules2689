@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > It is usually best to admit mistakes when they occur, and to seek to restore honor.
+  > Sharing tea with a fascinating stranger is one of life’s true delights.
   >
-  > ~ Uncle Iroh
+  > ~ Uncle Iroh (Episode 2.08 'The Chase')
 <!--END_SECTION:iroh-->
 
 <br>
