@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > It is important to draw wisdom from many different places
+  > Sharing tea with a fascinating stranger is one of life’s true delights.
   >
-  > ~ Uncle Iroh (Episode 2.09 'Bitter Work')
+  > ~ Uncle Iroh (Episode 2.08 'The Chase')
 <!--END_SECTION:iroh-->
 
 <br>
