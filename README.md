@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > You have come to the crossroads of your destiny. It is time for you to choose. It is time for you to choose good.
+  > It is important to draw wisdom from many different places
   >
-  > ~ Uncle Iroh (Episode 2.20 'The Crossroads of Destiny')
+  > ~ Uncle Iroh (Episode 2.09 'Bitter Work')
 <!--END_SECTION:iroh-->
 
 <br>
