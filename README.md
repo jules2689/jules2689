@@ -14,7 +14,7 @@
 :wave: My name is Julian. Currently, I call Toronto home.
 
 I focus on...
-- :computer: Senior Developer @ GitHub
+- :computer: Staff Developer @ Stripe
 - :school: [Instructor at the University of Toronto](https://csc491.dcsil.ca)
 
 I like to work on...
