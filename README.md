@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > You have come to the crossroads of your destiny. It is time for you to choose. It is time for you to choose good.
+  > There is nothing wrong with a life of peace and prosperity. I suggest you think about what it is you want from your life, and why.
   >
-  > ~ Uncle Iroh (Episode 2.20 'The Crossroads of Destiny')
+  > ~ Uncle Iroh (Episode 2.17 'Lake Laogai')
 <!--END_SECTION:iroh-->
 
 <br>
