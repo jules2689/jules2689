@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > There is nothing wrong with a life of peace and prosperity. I suggest you think about what it is you want from your life, and why.
+  > Sometimes life is like this tunnel. You can’t always see the light at the end of the tunnel, but if you keep moving, you will come to a better place.
   >
-  > ~ Uncle Iroh (Episode 2.17 'Lake Laogai')
+  > ~ Uncle Iroh (Episode 2.19 'The Crossroads of Destiny')
 <!--END_SECTION:iroh-->
 
 <br>
