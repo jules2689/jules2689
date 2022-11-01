@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > Destiny is a funny thing. You never know how things are going to work out.
+  > Sometimes life is like this tunnel. You can’t always see the light at the end of the tunnel, but if you keep moving, you will come to a better place.
   >
-  > ~ Uncle Iroh
+  > ~ Uncle Iroh (Episode 2.19 'The Crossroads of Destiny')
 <!--END_SECTION:iroh-->
 
 <br>
