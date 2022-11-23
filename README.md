@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > It is important to draw wisdom from many different places
+  > While it is always best to believe in oneself, a little help from others can be a great blessing.
   >
-  > ~ Uncle Iroh (Episode 2.09 'Bitter Work')
+  > ~ Uncle Iroh
 <!--END_SECTION:iroh-->
 
 <br>
