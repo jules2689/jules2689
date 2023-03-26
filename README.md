@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > Life happens wherever you are, whether you make it or not.
+  > It is usually best to admit mistakes when they occur, and to seek to restore honor.
   >
-  > ~ Uncle Iroh (Episode 2.13 'City of Walls Secrets')
+  > ~ Uncle Iroh
 <!--END_SECTION:iroh-->
 
 <br>
