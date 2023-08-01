@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > It is important to draw wisdom from many different places
+  > Life happens wherever you are, whether you make it or not.
   >
-  > ~ Uncle Iroh (Episode 2.09 'Bitter Work')
+  > ~ Uncle Iroh (Episode 2.13 'City of Walls Secrets')
 <!--END_SECTION:iroh-->
 
 <br>
