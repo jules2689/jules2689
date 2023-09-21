@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > Hope is something you give yourself. That is the meaning of inner strength.
+  > You have come to the crossroads of your destiny. It is time for you to choose. It is time for you to choose good.
   >
-  > ~ Uncle Iroh
+  > ~ Uncle Iroh (Episode 2.20 'The Crossroads of Destiny')
 <!--END_SECTION:iroh-->
 
 <br>
