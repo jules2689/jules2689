@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > You have come to the crossroads of your destiny. It is time for you to choose. It is time for you to choose good.
+  > Destiny is a funny thing. You never know how things are going to work out.
   >
-  > ~ Uncle Iroh (Episode 2.20 'The Crossroads of Destiny')
+  > ~ Uncle Iroh
 <!--END_SECTION:iroh-->
 
 <br>
