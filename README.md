@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > Sometimes life is like this tunnel. You can’t always see the light at the end of the tunnel, but if you keep moving, you will come to a better place.
+  > It is important to draw wisdom from many different places
   >
-  > ~ Uncle Iroh (Episode 2.19 'The Crossroads of Destiny')
+  > ~ Uncle Iroh (Episode 2.09 'Bitter Work')
 <!--END_SECTION:iroh-->
 
 <br>
