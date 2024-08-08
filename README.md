@@ -2,9 +2,9 @@
 <!--START_SECTION:iroh-->
 <img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
   
-  > While it is always best to believe in oneself, a little help from others can be a great blessing.
+  > Pride is not the opposite of shame, but its source.
   >
-  > ~ Uncle Iroh
+  > ~ Uncle Iroh (Episode 2.09 'Bitter Work')
 <!--END_SECTION:iroh-->
 
 <br>
