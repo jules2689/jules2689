@@ -11,11 +11,9 @@
 
 ---
 
-:wave: My name is Julian. Currently, I call Toronto home.
+:wave: My name is Julian. I live in Toronto, Ontario, Canada
 
-I focus on...
-- :computer: Staff Developer @ Stripe
-- :school: [Instructor at the University of Toronto](https://csc491.dcsil.ca)
+I am a Staff Developer @ Stripe, previously an [instructor at the University of Toronto](https://csc491.dcsil.ca).
 
 I like to work on...
 - :factory: Automation of tedious things
